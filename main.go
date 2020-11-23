@@ -40,6 +40,4 @@ func main() {
 	fmt.Println("移1位后的结果：",rs2)
 	rs3 := bigN.Lsh(bigN, 254)
 	fmt.Println("移254位后的结果：",rs3)
-
-
 }
